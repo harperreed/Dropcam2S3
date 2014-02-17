@@ -1,0 +1,10 @@
+# define the runtime language
+runtime "python"
+# exec is the file that will be executed:
+exec "dropcam2s3.py"
+
+pip "boto"
+pip "dropcam"
+pip "awesome-slugify"
+
+full_remote_build true
