@@ -1,0 +1,7 @@
+{
+    "AWS_STORAGE_BUCKET_NAME":"bucket-name",
+    "AWS_SECRET_ACCESS_KEY":"xxxxxxxxx",
+    "AWS_ACCESS_KEY_ID":"xxxxxxxxx",
+    "DROPCAM_USERNAME":"username",
+    "DROPCAM_PASSWORD":"password"
+}
